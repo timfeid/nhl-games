@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
-let Pbp = require('./src/pbp')
+let Pbp = require('./lib/pbp')
 
-let playByPlay = new Pbp(2017020642)
+let playByPlay = new Pbp(2017020688)
 
 playByPlay.on('goal', play => {
   console.log(play.result.description)
