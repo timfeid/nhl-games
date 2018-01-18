@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/timfeid/nhl-pbp/issues"
   },
-  "homepage": "https://github.com/timfeid/nhl-pbp#readme"
+  "homepage": "https://github.com/timfeid/nhl-pbp#readme",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
 }
