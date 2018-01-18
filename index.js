@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-let Pbp = require('./lib/pbp')
+let Pbp = require('.')
 
 let playByPlay = new Pbp(2017020688)
 

@@ -2,7 +2,7 @@
   "name": "nhl-pbp",
   "version": "1.0.1",
   "description": "NHL play by play events",
-  "main": "lib",
+  "main": "lib/pbp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
