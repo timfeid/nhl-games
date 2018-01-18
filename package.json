@@ -1,0 +1,23 @@
+{
+  "name": "nhl-pbp",
+  "version": "1.0.0",
+  "description": "NHL play by play events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timfeid/nhl-pbp.git"
+  },
+  "keywords": [
+    "NHL",
+    "play-by-play"
+  ],
+  "author": "Tim Feid <tim@timfeid.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timfeid/nhl-pbp/issues"
+  },
+  "homepage": "https://github.com/timfeid/nhl-pbp#readme"
+}
